@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/alexandergshaw/INFO-2341-lecture-2/issues"
   },
-  "homepage": "https://github.com/alexandergshaw/INFO-2341-lecture-2#readme"
+  "homepage": "https://github.com/alexandergshaw/INFO-2341-lecture-2#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  }
 }
