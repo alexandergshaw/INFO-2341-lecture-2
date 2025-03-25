@@ -1,0 +1,19 @@
+{
+  "name": "lecture-2",
+  "version": "1.0.0",
+  "description": "project to illustrate unit tests",
+  "main": "game.js",
+  "scripts": {
+    "test": "testAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandergshaw/INFO-2341-lecture-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandergshaw/INFO-2341-lecture-2/issues"
+  },
+  "homepage": "https://github.com/alexandergshaw/INFO-2341-lecture-2#readme"
+}
